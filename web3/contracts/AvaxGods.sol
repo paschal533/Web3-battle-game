@@ -210,7 +210,7 @@ contract AVAXGods is ERC1155, Ownable, ERC1155Supply {
   }
 
   function getTotalSupply() external view returns (uint256) {
-    //return totalSupply;
+    return totalSupply;
   }
 
   /// @dev Creates a new battle
