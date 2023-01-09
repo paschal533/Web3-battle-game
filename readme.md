@@ -4,7 +4,7 @@
 ### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
 
 ## Instructions on setting up the Web3 part of the project
-0. `cd web3`
+0. `web3`
 1. `npx hardhat` -> y → typescript → enter → enter
 2. `npm install @openzeppelin/contracts dotenv @nomiclabs/hardhat-ethers` + Hardhat packages `npm install --save-dev "hardhat@^2.12.0" "@nomicfoundation/hardhat-toolbox@^2.0.0"`
 3. Install [Core](https://chrome.google.com/webstore/detail/core/agoakfejjabomempkjlepdflaleeobhb), a Metamask smart wallet alternative built for Avalanche dApps
