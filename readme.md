@@ -7,7 +7,7 @@
 0. `cd web3`
 1. `npx hardhat` -> y → typescript  → enter → enter
 2. `npm install @openzeppelin/contracts dotenv @nomiclabs/hardhat-ethers` + Hardhat packages `npm install --save-dev "hardhat@^2.12.0" "@nomicfoundation/hardhat-toolbox@^2.0.0"`
-3. Install [Core](https://chrome.google.com/webstore/detail/core/agoakfejjabomempkjlepdflaleeobhb), a Metamask smart wallet alternative built for Avalanche dApps
+3. Install [Core](https://chrome.google.com/webstore/detail/core/agoakfejjabomempkjlepdflaleeobhb), a Metamask smart wallet alternative built  Avalanche dApps
   1. Turn on the testnet mode by: opening up the Core extension -> click the hamburger menu on the top left -> go to advanced -> turn on the testnet mode
 4. Fund your wallet from the [Avax Faucet](https://faucet.avax.network/)
 5. Create a `.env` file and specify a PRIVATE_KEY variable.
